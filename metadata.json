@@ -1,0 +1,6 @@
+{
+  "name": "RehanProAI",
+  "description": "Your Personal AI Assistant: Chat, Create, Learn, and Imagine with ChatGPT-like intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
